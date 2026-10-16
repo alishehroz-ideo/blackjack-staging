@@ -1,0 +1,1 @@
+export const CONFIG=Object.freeze({version:1,duration:180000,maxBusts:3,place:10,twentyOne:400,charlie:500,blackjack:600,comboWindow:3000,multipliers:[1,1.5,2.5,5],timeRate:5,timeCap:.15});
